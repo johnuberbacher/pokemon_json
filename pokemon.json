@@ -50,7 +50,7 @@
     },
     "image": {},
     "sprite": "https://raw.githubusercontent.com/johnuberbacher/pokemon_json/master/images/pokedex/sprites/001.png",
-    "thumbnail": "https://raw.githubusercontent.com/johnuberbacher/master/images/pokedex/thumbnails/001.png",
+    "thumbnail": "https://raw.githubusercontent.com/johnuberbacher/pokemon_json/main/images/pokedex/thumbnails/001.png",
     "hires": "https://raw.githubusercontent.com/johnuberbacher/pokemon_json/master/images/pokedex/hires/001.png"
   },
   {
